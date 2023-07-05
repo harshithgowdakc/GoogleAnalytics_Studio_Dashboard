@@ -32,7 +32,8 @@ a. From which city, the highest revenue was generated in the first quarter of 20
 
 Plot a chart showing the conversion rate per user for 30 days in any month. Plot a chart showing the grand total conversion rate for different user categories for 30 days in a month. Plot a chart showing the Bounce rates for different countries over a specific period of time. Also show different metrics such as total users, new users, conversion rate per user, time on screen, Average price, Order value etc. for different countries.
 
-# C. Funnel Analytics: Prepare a funnel overview with 5 parts - Acquisition, Activation, Retention, Revenue, Referral, Funnel Visualization. Add different charts and graphs showing the following metrics:
+# C. Funnel Analytics: 
+Prepare a funnel overview with 5 parts - Acquisition, Activation, Retention, Revenue, Referral, Funnel Visualization. Add different charts and graphs showing the following metrics:
 
 Acquisition:
 
